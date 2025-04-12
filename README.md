@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **fullstack projects with Laravel/Vue**
 
-- 👨‍💻 All of my projects are available at [vishu-dev.github.io](https://vishu-dev.github.io)
+- 👨‍💻 All of my projects are available at dev.ravirajput.github.io](https://dev.ravirajput.github.io/Portfolio)
 
 - 📝 I regularly write tech blogs at [Dev.to](https://dev.to/your-profile)
 
 - 💬 Ask me about **Laravel, Vue.js, TailwindCSS, and API design**
 
-- 📫 How to reach me: **vishu.dev@example.com**
+- 📫 How to reach me: **dev.ravirajput@gmail.com**
 
 - ⚡ Fun fact: I love debugging more than coding sometimes 🤓
 
