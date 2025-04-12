@@ -16,7 +16,7 @@
 - 💻 Currently building **a next-gen food delivery platform** with Laravel + Vue 3
 - � Mastering **Microservices Architecture & Docker**
 - 📚 Writing tech blogs on [Medium](https://medium.com/@dev.ravirajput)
-- 🎯 2024 Goals: Contribute to Open Source & Learn Rust
+- 🎯 2025 Goals: Contribute to Open Source & Learn Rust
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ---
