@@ -17,7 +17,6 @@
 - 🏗️ Architecting **maintainable and scalable** web applications
 - 📚 Sharing knowledge through tech blogs on [Medium](https://medium.com/@dev.ravirajput)
 - 🎯 2025 Goals: Contribute to Open Source & Master System Design
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ---
 
